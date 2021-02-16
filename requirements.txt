@@ -1,0 +1,4 @@
+pandas==0.24.2
+numpy==1.16.6
+PersianStemmer==1.0.0
+scikit-learn==0.20.4
